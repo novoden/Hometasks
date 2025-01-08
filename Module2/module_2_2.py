@@ -7,4 +7,4 @@ if first == second and first == third:
 elif first == second or first == third or second == third:
     print('\n'+'Два числа равны')
 else:
-    print (int(not 1), 'Равных чисел нет!')
+    print('\n'+'Равных чисел нет!')
